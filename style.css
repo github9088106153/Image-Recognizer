@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(167, 255, 211);
+    color: red;
+}
+.heading{
+    width: 100%;
+    font-size: 50px;
+    background-color:rgb(211, 255, 205) ;
+}
+.name_of_objects,#resut_object_name,#result_object_accuracy{
+    color: brown;
+    font-size: 20px;
+}
+#camera, #result{
+    border: 2px solid black;
+    width: 350px;
+    height: 275px;
+}
+h3{
+    font-size: larger;
+    width: 50%;
+}
+
+
+
